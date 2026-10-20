@@ -1,5 +1,7 @@
 # NXT Retro Music
 
+> Release upload is pending. Installer and corresponding-source download links will become available when v1.9.7.7 is published.
+
 **A music player for TrimUI Brick, Brick Hammer, and Brick Pro, running on NX Redux and NextUI, with a separate Stock ROM package for Brick Pro.**
 
 **Built through vibe coding.**

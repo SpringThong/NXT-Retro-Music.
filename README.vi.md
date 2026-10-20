@@ -1,5 +1,7 @@
 # NXT Retro Music
 
+> Đang chờ hoàn tất tải bản phát hành. Các nút tải bản cài và mã nguồn sẽ hoạt động sau khi v1.9.7.7 được công bố.
+
 **Trình nghe nhạc cho dòng TrimUI Brick, Brick Hammer và Brick Pro trên NX Redux và NextUI, kèm bộ cài Stock riêng cho Brick Pro.**
 
 **Một dự án vibe coding, tập trung vào nghe nhạc và cá nhân hóa.**
